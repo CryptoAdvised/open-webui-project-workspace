@@ -1,5 +1,4 @@
-# open-webui-project-workspace
-# Project Workspace Tools & AI Workflow
+# open-webui-project-workspace for Project Workspace Tools & AI Workflow
 
 > Complete documentation, system prompt guidelines, and developer reference for the **Project Workspace Tools** Open WebUI extension (`v3.0.1`).
 
